@@ -19,3 +19,6 @@ https://hutchx86.dev/sur40discord
 
 SUR40 IOCB repository:
 https://github.com/hutchx86/sur40-iocb
+
+SUR40 Facebook group:
+https://www.facebook.com/groups/490169271446801
