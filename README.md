@@ -14,7 +14,7 @@ This board is named the SUR40 IOCB, which stands for SUR40 Input/Output and Cont
 You can find the Wiki here: 
 https://github.com/hutchx86/sur40-kb/wiki
 
-SUR40 Recovery Project discord: 
+SUR40 Restoration Project discord: 
 https://hutchx86.dev/sur40discord
 
 SUR40 IOCB repository:
