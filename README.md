@@ -22,3 +22,7 @@ https://github.com/hutchx86/sur40-iocb
 
 SUR40 Facebook group:
 https://www.facebook.com/groups/490169271446801
+
+
+Credits:
+The sensor assembly pictures were provided by Nick Thomson in the Facebook group.
